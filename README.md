@@ -31,21 +31,22 @@ Todas estas prácticas me han permitido fortalecer mis conocimientos en HTML, CS
 
 ## Proyectos destacados
 
-### 🔹 Espol Fútbol
+
+### ⚽ Espol Fútbol
 Página web desarrollada como borrador inicial para compartir información relevante sobre próximos eventos relacionados con el fútbol en la ESPOL. El objetivo es centralizar horarios, sedes y novedades de los partidos para que la comunidad estudiantil esté siempre informada.
 
 **Tecnologías:** HTML, CSS, JavaScript
 
 **Repositorio:** https://github.com/JaylindChancay/espol-futbol
 
-### 🔹 QR Scan
+### 📲 QR Scan
 Aplicación móvil orientada a guardias de seguridad y administradores de turnos. Permite al administrador asignar horarios de trabajo, comprobar la actividad de cada guardia, comunicarse directamente mediante un chat interno y confirmar asistencias a través de escaneo de código QR.
 
 **Tecnologías:** JavaScript, React, Node.js
 
 **Repositorio:** https://github.com/ArielAT123/qr_scan
 
-### 🔹 Spotify Pirata
+### 🎵 Spotify Pirata
 Proyecto práctico enfocado en simular la experiencia de una plataforma de streaming de música como Spotify. Incluye reproducción de canciones, busqueda pero aun no se encuentra terminada.
 
 **Tecnologías:** HTML, CSS, JavaScript
