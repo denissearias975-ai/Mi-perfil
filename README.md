@@ -11,23 +11,12 @@ Soy estudiante de la carrera de Ciencia de Datos e Inteligencia Artificial en ES
 
 ## Habilidades y tecnologías
 
-**Lenguajes de programación**
-- Python
-- JavaScript
-- Java
-- JSON
-
-**Frameworks y librerías**
-- React
-- Node.js
-- Express
-- Bootstrap
-
-**Herramientas**
-- Git y GitHub
-- Visual Studio Code
-- Antigravity
-- PyCharm
+| Lenguajes de programación | Frameworks y librerías | Herramientas |
+|---|---|---|
+| Python | React | Git y GitHub |
+| JavaScript | Node.js | Visual Studio Code |
+| Java | Express | Antigravity |
+| JSON | Bootstrap | PyCharm |
 
 Durante este curso he realizado distintas prácticas que me han permitido ir construyendo mis bases en desarrollo frontend:
 
