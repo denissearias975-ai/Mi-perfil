@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Soy estudiante de la carrera de Ciencia de Datos e Inteligencia Artificial. Me apasiona programar, diseñar interfaces y compartir lo que aprendo enseñando a otros. Disfruto resolver problemas combinando lógica, creatividad y buen diseño visual.
+Soy estudiante de la carrera de Ciencia de Datos e Inteligencia Artificial en ESPOL. Me apasiona programar, diseñar y compartir lo que aprendo enseñando a otros. Disfruto resolver problemas combinando lógica, creatividad y buen diseño visual.
 
 - 🎓 Estudiante de Ciencia de Datos e Inteligencia Artificial
 - 🔭 Actualmente aprendiendo: desarrollo frontend
@@ -29,7 +29,14 @@ Soy estudiante de la carrera de Ciencia de Datos e Inteligencia Artificial. Me a
 - Antigravity
 - PyCharm
 
-Durante este curso aprendí los fundamentos del desarrollo frontend: HTML, CSS y JavaScript, además de React para construir interfaces dinámicas. Apliqué estos conocimientos construyendo un dashboard interactivo, donde practiqué la creación de componentes reutilizables y el manejo de datos en la interfaz.
+Durante este curso he realizado distintas prácticas que me han permitido ir construyendo mis bases en desarrollo frontend:
+
+- **CV desde cero:** Empezamos estructurando un currículum completamente en HTML puro, para luego darle estilo con CSS: tipografías, colores, espaciados, diseño responsivo y animaciones simples. Esta práctica me ayudó a entender cómo CSS permite transformar una estructura básica en una interfaz visualmente atractiva y ordenada.
+- **Página temática basada en entrevista:** Desarrollamos un sitio web basado en una entrevista sobre un tema elegido por cada grupo; en nuestro caso, el fútbol en la ESPOL. Aplicamos los conocimientos del parcial sobre HTML y CSS para maquetar la información, estructurar secciones y aplicar un diseño coherente y fácil de navegar.
+- **Dashboards (actualmente):** Nos encontramos aprendiendo a construir dashboards interactivos con React, donde practico la creación de componentes reutilizables, el manejo de estado y la visualización de datos en tiempo real dentro de la interfaz.
+- **Extensión de Google y buscador de música:** También trabajé con JavaScript, JSON y TypeScript en dos proyectos distintos: una extensión para el navegador y un buscador de música. En ambos aplicamos el tipado de TypeScript para hacer el código más seguro y mantenible, además de construir interfaces dinámicas que consumen y muestran datos en tiempo real.
+
+Todas estas prácticas me han permitido fortalecer mis conocimientos en HTML, CSS, JavaScript, TypeScript y React, aplicándolos en distintos contextos y tipos de proyectos.
 
 ## Proyectos destacados
 
